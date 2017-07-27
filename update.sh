@@ -2,10 +2,10 @@
 
 # Set variables
 # -----------------------------------
-GUNBOT_GITHUB_FOLDER_NAME="Gunbot3.3.3"
-GUNBOT_GITHUB_FILE_NAME="Gunbot_v3.3.3_core_allOs"
+GUNBOT_GITHUB_FOLDER_NAME="Gunbot3.3.4"
+GUNBOT_GITHUB_FILE_NAME="Gunbot_v3.3.4_allOs"
 TIMESTAMP="$(date +"%s")"
-LATEST_PATCH="v3.3.3 core_allOs"
+LATEST_PATCH="v3.3.4 allOs"
 
 # Set functions
 # -----------------------------------
