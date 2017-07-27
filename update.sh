@@ -2,7 +2,7 @@
 
 # Set variables
 # -----------------------------------
-GUNBOT_GITHUB_FOLDER_NAME="Gunbot3.3.4"
+GUNBOT_GITHUB_FOLDER_NAME="v3.3.4"
 GUNBOT_GITHUB_FILE_NAME="Gunbot_v3.3.4_allOs"
 TIMESTAMP="$(date +"%s")"
 LATEST_PATCH="v3.3.4 allOs"
@@ -17,7 +17,7 @@ logMessage () {
 
 echo ""
 echo " ============================================================"
-echo "                    GUNBOT 3.3.3 UPDATE started"
+echo "                    GUNBOT 3.3.4 UPDATE started"
 echo ""
 echo "                        Patch ${LATEST_PATCH}"
 echo ""

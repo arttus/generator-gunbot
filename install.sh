@@ -2,7 +2,7 @@
 
 # Set variables
 # -----------------------------------
-GUNBOT_GITHUB_FOLDER_NAME="Gunbot3.3.4"
+GUNBOT_GITHUB_FOLDER_NAME="v3.3.4"
 GUNBOT_GITHUB_FILE_NAME="Gunbot_v3.3.4_allOs"
 
 

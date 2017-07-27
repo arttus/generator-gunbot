@@ -46,7 +46,7 @@ To update follow these steps:
 2. Run this update script
 ```bash
 cd
-curl -qsL https://raw.githubusercontent.com/BeerK0in/generator-gunbot/master/update.sh | bash --
+curl -qsL https://raw.githubusercontent.com/arttus/generator-gunbot/master/update.sh | bash --
 ```
 3. Run `ginit` again to start all bots with delay
 ```bash
